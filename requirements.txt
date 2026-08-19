@@ -1,0 +1,15 @@
+spacy
+transformers
+sentence-transformers
+torch
+torchvision
+torchaudio
+networkx
+pyvis
+matplotlib
+seaborn
+gradio
+rouge-score
+numpy
+pandas
+scikit-learn
